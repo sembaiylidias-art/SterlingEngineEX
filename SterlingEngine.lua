@@ -2083,7 +2083,7 @@ local Options = {
 	-- Icon = "rbxassetid://0",               -- твоя иконка
 	-- Wallpaper = "rbxassetid://0",
 	-- ВЛАДЕЛЬЦЫ: можно UserId (число или строка) и/или username. Строка НЕ должна быть закомментирована!
-	Owners = { 1234567890, "YourUsername" },
+	Owners = { 8605387982, "raster22828" },
 	-- ChatUrl = "wss://your-server/chat",    -- Global Live Chat (WebSocket)
 	-- OnChatSend = function(msg) end,
 	-- OnForumPost = function(title, body) end,
